@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\Tmac\Tmac\bin\Debug\net6.0\Tmac.exe
+C:\Users\andre\Downloads\c#\Tmac\Tmac\bin\Debug\net6.0\Tmac.deps.json
+C:\Users\andre\Downloads\c#\Tmac\Tmac\bin\Debug\net6.0\Tmac.runtimeconfig.json
+C:\Users\andre\Downloads\c#\Tmac\Tmac\bin\Debug\net6.0\Tmac.dll
+C:\Users\andre\Downloads\c#\Tmac\Tmac\bin\Debug\net6.0\Tmac.pdb
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.dll
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\refint\Tmac.dll
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.pdb
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\Tmac.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\Tmac\Tmac\obj\Debug\net6.0\ref\Tmac.dll
